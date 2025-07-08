@@ -6,4 +6,5 @@ I'm a Business Intelligence Analyst with a background in sales and a passion for
 - 👯 I’m looking to collaborate on nonprofit or health data projects  
 - 💬 Ask me about Tableau dashboards, return rate analysis, or pivot tables  
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/sarah-monique-padilla)  
-- ⚡ Fun fact:I’m a woman of faith, a dog mom to 3 chihuahuas, and deeply motivated to use data for good in mission-driven spaces.
+- ⚡ Fun fact: I’m a woman of faith, a dog mom to 3 chihuahuas, and deeply motivated to use data for good in mission-driven spaces.
+- 📃 My Resume: https://docs.google.com/document/d/1HPdSL8t_jYtf_tPTreZyXEGbxwlfbbHdaQvnvG7AOPE/edit?usp=drive_link
